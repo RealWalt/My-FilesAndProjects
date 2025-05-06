@@ -47,7 +47,7 @@ export function reiniciarObjetoCita() {
     // citaObj.propietario = '';
     // citaObj.email = '';
     // citaObj.fecha = '';
-    // citaObj.sintomas = '';
+    //  jscitaObj.sintomas = '';
 
     Object.assign(citaObj, {
         id: generarId(),
