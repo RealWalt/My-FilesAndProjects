@@ -1,4 +1,5 @@
-let DB;
+
+let DB; //Evitar bug(mi primer bug resuelto)
 
 (function() {
 
