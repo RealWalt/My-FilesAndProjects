@@ -10,7 +10,7 @@ function cargarEventListeners() {
     //Cuando agregas un curso apretando 'Agregando curso'
     listaCursos.addEventListener('click', agregarCurso);
 
-    //Eliminar cursos del carrito
+    // Eliminar cursos del carrito
     carrito.addEventListener('click', eliminarCurso);
     
     //Muestra los cursos del LocalStorage
