@@ -48,7 +48,7 @@ class UI{
     }
 
     imprimirAlerta(mensaje, tipo) {
-        //crear el div
+        //Crear el div
         const divMensaje = document.createElement('DIV');
         divMensaje.classList.add('text-center', 'alert');
 
