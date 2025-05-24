@@ -10,6 +10,7 @@ Seguro.prototype.cotizarSeguro = function () {
         1 = Americano 1.15%
         2 = Asiatico 1.05%
         3 = Europeo 1.35%
+        
     */
 
         let cantidad;
