@@ -21,7 +21,7 @@ function cargarEventListeners() {
     })
     //Vaciar carrito
     vaciarCarritoBtn.addEventListener('click', () =>{
-        articulosCarrito = []; // reseteamos el arreglo
+        articulosCarrito = []; // Reseteamos el arreglo 
         localStorage.clear();
 
         limpiarHTML(); // eliminamos todo el html
