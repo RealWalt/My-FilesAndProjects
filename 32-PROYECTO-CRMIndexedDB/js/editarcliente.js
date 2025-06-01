@@ -17,7 +17,7 @@
         formulario.addEventListener('submit', actualizarCliente);
 
 
-        //verificar el id de la url
+        // Verificar el id de la url
         const parametrosURL = new URLSearchParams(window.location.search);
         idCliente = parametrosURL.get('id');
         if(idCliente) {
