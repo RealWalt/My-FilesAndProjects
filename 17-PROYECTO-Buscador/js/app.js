@@ -14,7 +14,7 @@ const resultado = document.querySelector('#resultado');
 const max = new Date().getFullYear();
 const min = max - 15;
 
-// Generar un objeto con la busqueda
+// Generar un objeto con la busquedaa
 const datosBusqueda = {
     marca: '',
     year: '',
